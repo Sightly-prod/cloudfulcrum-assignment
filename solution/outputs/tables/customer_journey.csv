@@ -1,0 +1,71 @@
+customer,start_dt,call_type,title,topic_cluster_label,overall_sentiment,sentiment_score,vader_mean,meeting_id
+atlasprecision,2026-02-25 15:00:00+00:00,external,Aegis / Atlas Precision - Contract Discussion,Renewal / Pricing / Proposal,mixed-positive,3.7,0.3548767441860466,01KQ1DC6CA536DE1B31ED8F5
+atlasprecision,2026-04-28 12:45:00+00:00,external,Aegis / Atlas Precision - Annual Review & Renewal,Renewal / Pricing / Proposal,positive,4.3,0.5678585365853659,01KQD199788883B6F18C81E8
+axiomlabs.dev,2026-04-17 09:45:00+00:00,external,Aegis / Axiom Labs - Multi-Year Renewal,Renewal / Pricing / Proposal,mixed-positive,4.2,0.566495744680851,01KQ410FB7E434BA3F99EE7D
+blackridgeinvest,2026-02-07 17:45:00+00:00,external,Aegis / Blackridge Investments - Renewal Discussion,Renewal / Pricing / Proposal,very-positive,4.7,0.6064846153846154,01KQFFC0F889AE8CFEE7A00D
+blackridgeinvest,2026-03-12 15:45:00+00:00,external,URGENT: Blackridge Investments - Complete Loss of Threat Visibility,Event / Account / Issue,very-negative,1.6,0.18856585365853662,01KQ2D93184912F0147315E7
+blackridgeinvest,2026-04-21 14:15:00+00:00,external,Aegis / Blackridge Investments - HIPAA Compliance Review,Evidence / Report / Control,very-positive,4.7,0.5988891304347826,01KQ3BD8DEEBC7FECD107F0F
+blackridgeinvest,2026-04-25 17:15:00+00:00,support,Support Case #8811 - Blackridge Investments Custom Compliance Template,Evidence / Report / Control,very-positive,4.8,0.5947472222222222,01KQ92EA85FE4C537400227D
+bridgeporthealth,2026-02-13 11:00:00+00:00,external,Aegis / Bridgeport Health - Compliance Review,Evidence / Report / Control,mixed-positive,4.1,0.5488317073170732,01KQ85D10E82A26A8F754FB8
+bridgeporthealth,2026-04-23 13:30:00+00:00,external,Aegis / Bridgeport Health - Renewal Finalization,Renewal / Pricing / Proposal,mixed-positive,4.1,0.546986,01KQ4D71CDFB1045A2458216
+brightpathcommerce,2026-02-11 09:15:00+00:00,external,Aegis / Brightpath Commerce - Detect Module Deployment,Restore / Onboarding / Backup,mixed-positive,3.9,0.48229090909090905,01KQ77F2867FC54E13A8C495
+brightpathcommerce,2026-02-21 11:30:00+00:00,support,Support Case #6977 - Brightpath Commerce Slow Backup Performance,Restore / Onboarding / Backup,mixed-negative,2.8,0.2216142857142857,01KQ1A6B7E81B06F4A13B60D
+brightpathcommerce,2026-02-27 13:00:00+00:00,support,Support Case #7572 - Brightpath Commerce Invoice Discrepancy,Billing / Invoice / Overage,mixed-positive,3.7,0.457186046511628,01KQ773D68723289E4A98889
+brightpathcommerce,2026-04-22 15:30:00+00:00,external,Aegis / Brightpath Commerce - Competitive Evaluation,Sentinelshield / Fortiguard / Demo,mixed-negative,2.6,0.41684054054054054,01KQ45F6F7349D0A620571F1
+clearwatermed,2026-04-07 14:15:00+00:00,external,Aegis / Clearwater Medical - Comply v2 Deployment Kickoff,Evidence / Report / Control,very-positive,4.8,0.5003931818181818,01KQ4D01DCB15C69672AB5AF
+clearwatermed,2026-04-10 17:30:00+00:00,support,Support Case #8179 - Clearwater Medical Overage Charges Dispute,Billing / Invoice / Overage,mixed-negative,2.4,0.25216500000000003,01KQ56AA6B60801ABC01AB1C
+coastalliving,2026-02-04 11:00:00+00:00,external,Aegis / Coastal Living Co - Onboarding Kickoff,Restore / Onboarding / Backup,very-positive,4.9,0.560875,01KQ9BB82FD97C9607D57E90
+coastalliving,2026-02-24 16:45:00+00:00,support,Support Case #3677 - Coastal Living Co MFA Token Failures,Certificate / Users / Sync,mixed-negative,2.2,0.22237619047619048,01KQ9772B2348F500FB09D1E
+coastalliving,2026-03-29 15:15:00+00:00,support,Support Case #8749 - Coastal Living Co SAML Certificate Rotation Bug,Certificate / Users / Sync,mixed-negative,2.2,0.21902162162162167,01KQ5EC1665DCFD7A6B62A59
+coastalliving,2026-04-19 15:15:00+00:00,external,Aegis / Coastal Living Co - Protect Module Expansion,Restore / Onboarding / Backup,very-positive,4.8,0.57025,01KQ560FF1570C5E7F71D752
+cobaltsoftware,2026-03-10 13:15:00+00:00,external,URGENT: Cobalt Software - Aegis Detect Dashboard Down,Event / Account / Issue,negative,1.8,0.1841756756756757,01KQEDB92E33CF9945A7F71B
+cobaltsoftware,2026-04-11 14:15:00+00:00,external,Aegis / Cobalt Software - Q2 Planning,Circuit Breaker,mixed-positive,3.4,0.37526904761904756,01KQ0F8AFF3DA34FD4580008
+crestlinewealth,2026-02-17 14:30:00+00:00,external,Aegis / Crestline Wealth - Account Review,Evidence / Report / Control,mixed-positive,3.8,0.5043137254901962,01KQAEA50436D047BC39CFC7
+crestlinewealth,2026-04-24 16:45:00+00:00,external,Aegis / Crestline Wealth - Identity Module Deployment,Mfa / Identity / Okta,very-positive,4.8,0.5758325581395349,01KQ5AFAE8264DDC0ED2AE7F
+crestlinewealth,2026-04-27 10:15:00+00:00,support,Support Case #7615 - Crestline Wealth Group Policy Sync Delay,Certificate / Users / Sync,mixed-negative,2.4,0.4179307692307692,01KQC166F678CBA584AAFF8B
+forgeindustries,2026-03-18 14:45:00+00:00,support,Support Case #7537 - Forge Industries Detect Recovery Confirmation,Event / Account / Issue,mixed-positive,3.4,0.32465,01KQ5D47170D4828E89EDE37
+forgeindustries,2026-04-03 15:30:00+00:00,support,Support Case #1993 - Forge Industries Comply v2 Early Access Question,Evidence / Report / Control,very-positive,4.8,0.554606976744186,01KQ56786DD1E8A1BF174FDD
+forgeindustries,2026-04-09 11:15:00+00:00,external,Aegis / Forge Industries - PCI DSS Compliance Review,Evidence / Report / Control,mixed-positive,4.1,0.5626619047619048,01KQB95605C6F873C6036285
+frostbyte,2026-02-19 10:30:00+00:00,external,Aegis / Frostbyte AI - Identity Module Setup,Mfa / Identity / Okta,very-positive,4.8,0.5642166666666667,01KQC3A2EBC501837E973B16
+frostbyte,2026-04-25 14:45:00+00:00,external,Aegis / Frostbyte AI - Product Feedback,Mfa / Identity / Okta,mixed-positive,3.7,0.49241463414634146,01KQ65D43540846FA994B6C4
+harborviewbank,2026-03-05 15:30:00+00:00,external,Aegis / Harborview Banking - Threat Detection Tuning,Sentinelshield / Fortiguard / Demo,mixed-positive,3.9,0.4418166666666666,01KQ41FB5CCFD9EA583FB020
+helixdata,2026-03-17 11:45:00+00:00,external,Aegis / Helix Data - Post-Incident Review,Renewal / Pricing / Proposal,mixed-negative,2.3,0.38202499999999995,01KQ8C5A044F54EE1774D53C
+ironcladfinancial,2026-03-28 12:30:00+00:00,external,Aegis / Ironclad Financial - Account Recovery Check-in,Renewal / Pricing / Proposal,mixed-negative,2.8,0.3299833333333333,01KQC1267BEB344076DD7656
+ironworkscorp,2026-04-14 13:45:00+00:00,external,Aegis / Ironworks Corp - Vendor Comparison Discussion,Sentinelshield / Fortiguard / Demo,mixed-negative,2.6,0.39578048780487807,01KQ6CAA850EAFDC48B52846
+keystonehealth,2026-03-09 16:45:00+00:00,external,Aegis / Keystone Health - Renewal Planning,Renewal / Pricing / Proposal,positive,4.4,0.5033209302325582,01KQD4D9DEBA2D55AC2AA9F5
+maplewoodgoods,2026-02-27 14:45:00+00:00,external,Aegis / Maplewood Goods - SOC 2 Prep Review,Evidence / Report / Control,very-positive,4.8,0.6090243243243243,01KQAFB8DBF6E1E2FDEF0B75
+meridiancapital,2026-03-07 13:30:00+00:00,support,Support Case #3546 - Meridian Capital SCIM Provisioning Request,Billing / Invoice / Overage,mixed-positive,3.7,0.44873658536585365,01KQ5F364545B542671FF9CE
+meridiancapital,2026-03-14 11:45:00+00:00,external,Aegis / Meridian Capital - Service Reliability Discussion,Renewal / Pricing / Proposal,mixed-negative,2.4,0.21170416666666667,01KQ2217B066855A3B7814CB
+meridiancapital,2026-03-26 14:00:00+00:00,support,Support Case #1514 - Meridian Capital Granular Restore Request,Restore / Onboarding / Backup,mixed-positive,3.4,0.4488157894736842,01KQ25D8AED944B5D2A9FF60
+nimbusplatform,2026-02-10 15:30:00+00:00,support,Support Case #3615 - Nimbus Platform Custom Report Request,Mfa / Identity / Okta,mixed-positive,3.5,0.5721055555555556,01KQ9A6BE09D73A9BB5798C7
+nimbusplatform,2026-04-01 16:15:00+00:00,external,Aegis / Nimbus Platform - Comply v2 Preview,Evidence / Report / Control,very-positive,4.8,0.5463877551020409,01KQ54917E3931712516916D
+northstarpharma,2026-03-12 12:15:00+00:00,external,Aegis / Northstar Pharma - Urgent: Detect Outage Impact,Renewal / Pricing / Proposal,mixed-negative,2.1,0.32014375,01KQ351E141926AB7CAB668D
+northstarpharma,2026-03-15 14:30:00+00:00,external,ESCALATION: Northstar Pharma - Detect Outage Impact on Compliance,Event / Account / Issue,mixed-negative,2.1,0.1943853658536585,01KQ88B8EAEAA819C26CCBE7
+novaretail,2026-02-14 13:00:00+00:00,support,Support Case #6635 - Nova Retail Group SSO Login Failures,Certificate / Users / Sync,mixed-negative,2.3,0.29015121951219514,01KQADC32D89E2B76B698E84
+novaretail,2026-03-21 11:15:00+00:00,external,Aegis / Nova Retail Group - Renewal Discussion,Circuit Breaker,mixed-negative,2.6,0.2845225,01KQ7FA71CF70FAFEE4B6251
+pineridge,2026-03-03 15:15:00+00:00,external,Aegis / Pineridge Systems - Q1 Business Review,Renewal / Pricing / Proposal,very-positive,4.7,0.6250227272727273,01KQA502E222E2A60330237B
+pineridge,2026-03-04 10:15:00+00:00,support,Support Case #2638 - Pineridge Systems CloudPrime S3 Backup Connector,Certificate / Users / Sync,mixed-positive,3.9,0.3793921052631579,01KQ3C837D7EF689408DCF95
+pinnacleins,2026-04-08 15:15:00+00:00,support,Support Case #3296 - Pinnacle Insurance Comply v2 Report Formatting Issue,Billing / Invoice / Overage,mixed-positive,3.4,0.39962749999999997,01KQ38FE02AEE5AA5157F042
+pinnacleins,2026-04-16 13:00:00+00:00,external,Aegis / Pinnacle Insurance - Detect Roadmap Review,Sentinelshield / Fortiguard / Demo,mixed-positive,3.6,0.30125540540540535,01KQ8D9A06510DD623EFB1A6
+quantumedge,2026-03-19 16:00:00+00:00,external,Aegis / Quantum Edge - Renewal Concerns,Sentinelshield / Fortiguard / Demo,mixed-negative,2.4,0.3954977272727272,01KQ1DCC80852AE384C898C9
+redwoodclinical,2026-02-22 13:15:00+00:00,external,Aegis / Redwood Clinical - Product Feedback Session,Renewal / Pricing / Proposal,mixed-positive,3.2,0.4707219512195122,01KQ51DC4345D9DAE005678C
+redwoodclinical,2026-04-26 13:30:00+00:00,external,Aegis / Redwood Clinical - ISO 27001 Preparation,Evidence / Report / Control,very-positive,4.8,0.5626871794871795,01KQ0DFE299AC7A74E8022CA
+ridgelinelogistics,2026-03-07 09:00:00+00:00,external,Aegis / Ridgeline Logistics - Identity Roadmap Discussion,Mfa / Identity / Okta,mixed-positive,3.4,0.3984977272727273,01KQCA6EA8B603EBB6C9FE34
+ridgelinelogistics,2026-03-13 10:30:00+00:00,support,Support Case #6573 - Ridgeline Logistics Detect Data Gaps,Event / Account / Issue,mixed-negative,2.1,0.32581428571428567,01KQ94C2B8B9B4668F3D3491
+ridgelinelogistics,2026-03-14 17:15:00+00:00,support,Support Case #5889 - Ridgeline Logistics Detect Latency Issues,Event / Account / Issue,mixed-negative,2.4,0.17645624999999998,01KQ325BDEDEE927D2970775
+silverlinebrands,2026-03-16 16:15:00+00:00,support,Support Case #3103 - Silverline Brands Detect False Positives After Patch,Event / Account / Issue,mixed-negative,2.4,0.4422170731707317,01KQEDE682B4A8D67C657CF1
+silverlinebrands,2026-04-03 15:15:00+00:00,external,Aegis / Silverline Brands - Comply v2 Early Access Demo,Evidence / Report / Control,very-positive,4.8,0.5402744680851064,01KQ45C0AD36B351A3571940
+silverlinebrands,2026-04-12 09:00:00+00:00,support,Support Case #9856 - Silverline Brands Backup Window Exceeded,Certificate / Users / Sync,mixed-negative,2.4,0.3017292682926829,01KQA7DFCE1285F52192B34B
+silverlinebrands,2026-04-18 09:15:00+00:00,support,Support Case #7570 - Silverline Brands Comply v2 License Upgrade,Billing / Invoice / Overage,mixed-positive,3.9,0.464425,01KQB632F1ADC378C42F2C03
+steelpointmfg,2026-03-22 09:15:00+00:00,support,Support Case #6539 - Steelpoint Manufacturing LDAP Sync Failures,Certificate / Users / Sync,mixed-negative,2.4,0.228125,01KQ6A5CEAAFFBE3B0099E75
+steelpointmfg,2026-03-24 17:45:00+00:00,external,Aegis / Steelpoint Manufacturing - Contract Review,Renewal / Pricing / Proposal,mixed-negative,2.8,0.35508750000000006,01KQ45C76AF3AEA6B3EA6697
+stratoscloud,2026-03-06 13:30:00+00:00,external,Aegis / Stratos Cloud - Audit Preparation,Evidence / Report / Control,very-positive,4.7,0.6355333333333335,01KQ2B4878EC7B3EE5547007
+stratoscloud,2026-04-22 12:30:00+00:00,support,Support Case #3536 - Stratos Cloud LogVault Integration Timeout,Certificate / Users / Sync,mixed-negative,2.4,0.33589024390243905,01KQ56D878454E5783DC6D94
+summittrust,2026-02-06 09:15:00+00:00,support,Support Case #9279 - Summit Trust Billing Inquiry,Billing / Invoice / Overage,mixed-positive,3.8,0.4929948717948717,01KQ0C1280EDA4E70AAD7C35
+summittrust,2026-03-26 16:00:00+00:00,external,Aegis / Summit Trust - Platform Concerns Discussion,Sentinelshield / Fortiguard / Demo,mixed-negative,2.4,0.39398723404255326,01KQ5A966832A146DA4B7D41
+summittrust,2026-04-15 12:30:00+00:00,support,Support Case #6147 - Summit Trust Detect Alert Delays,Event / Account / Issue,mixed-negative,2.4,0.25423658536585364,01KQBBF753B44DE677670E6D
+trailheadmkt,2026-03-11 17:45:00+00:00,support,Support Case #3266 - Trailhead Marketplace Detect Alerts Not Firing,Event / Account / Issue,very-negative,1.4,0.08059444444444445,01KQ7BF0D56037FF89DC89B6
+trailheadmkt,2026-04-05 14:30:00+00:00,external,Aegis / Trailhead Marketplace - Renewal Confirmation,Renewal / Pricing / Proposal,positive,4.5,0.4783163265306123,01KQ3D8C1EF16C042F31FAFD
+vantahealth,2026-02-03 10:00:00+00:00,support,Support Case #3286 - Vanta Health Systems API Integration Error,Certificate / Users / Sync,mixed-negative,2.4,0.28252564102564104,01KQDD5172176D02DB51360A
+vantahealth,2026-02-18 12:30:00+00:00,support,Support Case #1750 - Vanta Health Systems SIEM Connector Issue,Event / Account / Issue,mixed-negative,2.4,0.3226,01KQBB7C4D4789DB2F3DA9C2
+vantahealth,2026-02-28 17:30:00+00:00,external,Aegis / Vanta Health Systems - Backup Strategy Workshop,Renewal / Pricing / Proposal,very-positive,4.7,0.5078018181818182,01KQA1AFDC1306A000B0C7D9

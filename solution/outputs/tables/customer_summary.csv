@@ -1,0 +1,33 @@
+customer,num_calls,num_support,num_external,first_call,last_call,first_sentiment,last_sentiment,sentiment_delta,avg_sentiment,min_sentiment,topics_covered
+northstarpharma,2,0,2,2026-03-12 12:15:00+00:00,2026-03-15 14:30:00+00:00,2.1,2.1,0.0,2.1,2.1,Event / Account / Issue; Renewal / Pricing / Proposal
+helixdata,1,0,1,2026-03-17 11:45:00+00:00,2026-03-17 11:45:00+00:00,2.3,2.3,0.0,2.3,2.3,Renewal / Pricing / Proposal
+quantumedge,1,0,1,2026-03-19 16:00:00+00:00,2026-03-19 16:00:00+00:00,2.4,2.4,0.0,2.4,2.4,Sentinelshield / Fortiguard / Demo
+novaretail,2,1,1,2026-02-14 13:00:00+00:00,2026-03-21 11:15:00+00:00,2.3,2.6,0.30000000000000027,2.45,2.3,Certificate / Users / Sync; Circuit Breaker
+steelpointmfg,2,1,1,2026-03-22 09:15:00+00:00,2026-03-24 17:45:00+00:00,2.4,2.8,0.3999999999999999,2.5999999999999996,2.4,Certificate / Users / Sync; Renewal / Pricing / Proposal
+cobaltsoftware,2,0,2,2026-03-10 13:15:00+00:00,2026-04-11 14:15:00+00:00,1.8,3.4,1.5999999999999999,2.6,1.8,Circuit Breaker; Event / Account / Issue
+ironworkscorp,1,0,1,2026-04-14 13:45:00+00:00,2026-04-14 13:45:00+00:00,2.6,2.6,0.0,2.6,2.6,Sentinelshield / Fortiguard / Demo
+ridgelinelogistics,3,2,1,2026-03-07 09:00:00+00:00,2026-03-14 17:15:00+00:00,3.4,2.4,-1.0,2.6333333333333333,2.1,Event / Account / Issue; Mfa / Identity / Okta
+ironcladfinancial,1,0,1,2026-03-28 12:30:00+00:00,2026-03-28 12:30:00+00:00,2.8,2.8,0.0,2.8,2.8,Renewal / Pricing / Proposal
+summittrust,3,2,1,2026-02-06 09:15:00+00:00,2026-04-15 12:30:00+00:00,3.8,2.4,-1.4,2.8666666666666667,2.4,Billing / Invoice / Overage; Event / Account / Issue; Sentinelshield / Fortiguard / Demo
+trailheadmkt,2,1,1,2026-03-11 17:45:00+00:00,2026-04-05 14:30:00+00:00,1.4,4.5,3.1,2.95,1.4,Event / Account / Issue; Renewal / Pricing / Proposal
+vantahealth,3,2,1,2026-02-03 10:00:00+00:00,2026-02-28 17:30:00+00:00,2.4,4.7,2.3000000000000003,3.1666666666666665,2.4,Certificate / Users / Sync; Event / Account / Issue; Renewal / Pricing / Proposal
+meridiancapital,3,2,1,2026-03-07 13:30:00+00:00,2026-03-26 14:00:00+00:00,3.7,3.4,-0.30000000000000027,3.1666666666666665,2.4,Billing / Invoice / Overage; Renewal / Pricing / Proposal; Restore / Onboarding / Backup
+brightpathcommerce,4,2,2,2026-02-11 09:15:00+00:00,2026-04-22 15:30:00+00:00,3.9,2.6,-1.2999999999999998,3.2499999999999996,2.6,Billing / Invoice / Overage; Restore / Onboarding / Backup; Sentinelshield / Fortiguard / Demo
+silverlinebrands,4,3,1,2026-03-16 16:15:00+00:00,2026-04-18 09:15:00+00:00,2.4,3.9,1.5,3.375,2.4,Billing / Invoice / Overage; Certificate / Users / Sync; Event / Account / Issue; Evidence / Report / Control
+pinnacleins,2,1,1,2026-04-08 15:15:00+00:00,2026-04-16 13:00:00+00:00,3.4,3.6,0.20000000000000018,3.5,3.4,Billing / Invoice / Overage; Sentinelshield / Fortiguard / Demo
+coastalliving,4,2,2,2026-02-04 11:00:00+00:00,2026-04-19 15:15:00+00:00,4.9,4.8,-0.10000000000000053,3.5250000000000004,2.2,Certificate / Users / Sync; Restore / Onboarding / Backup
+stratoscloud,2,1,1,2026-03-06 13:30:00+00:00,2026-04-22 12:30:00+00:00,4.7,2.4,-2.3000000000000003,3.55,2.4,Certificate / Users / Sync; Evidence / Report / Control
+clearwatermed,2,1,1,2026-04-07 14:15:00+00:00,2026-04-10 17:30:00+00:00,4.8,2.4,-2.4,3.5999999999999996,2.4,Billing / Invoice / Overage; Evidence / Report / Control
+crestlinewealth,3,1,2,2026-02-17 14:30:00+00:00,2026-04-27 10:15:00+00:00,3.8,2.4,-1.4,3.6666666666666665,2.4,Certificate / Users / Sync; Evidence / Report / Control; Mfa / Identity / Okta
+harborviewbank,1,0,1,2026-03-05 15:30:00+00:00,2026-03-05 15:30:00+00:00,3.9,3.9,0.0,3.9,3.9,Sentinelshield / Fortiguard / Demo
+blackridgeinvest,4,1,3,2026-02-07 17:45:00+00:00,2026-04-25 17:15:00+00:00,4.7,4.8,0.09999999999999964,3.95,1.6,Event / Account / Issue; Evidence / Report / Control; Renewal / Pricing / Proposal
+redwoodclinical,2,0,2,2026-02-22 13:15:00+00:00,2026-04-26 13:30:00+00:00,3.2,4.8,1.5999999999999996,4.0,3.2,Evidence / Report / Control; Renewal / Pricing / Proposal
+atlasprecision,2,0,2,2026-02-25 15:00:00+00:00,2026-04-28 12:45:00+00:00,3.7,4.3,0.5999999999999996,4.0,3.7,Renewal / Pricing / Proposal
+forgeindustries,3,2,1,2026-03-18 14:45:00+00:00,2026-04-09 11:15:00+00:00,3.4,4.1,0.6999999999999997,4.1,3.4,Event / Account / Issue; Evidence / Report / Control
+bridgeporthealth,2,0,2,2026-02-13 11:00:00+00:00,2026-04-23 13:30:00+00:00,4.1,4.1,0.0,4.1,4.1,Evidence / Report / Control; Renewal / Pricing / Proposal
+nimbusplatform,2,1,1,2026-02-10 15:30:00+00:00,2026-04-01 16:15:00+00:00,3.5,4.8,1.2999999999999998,4.15,3.5,Evidence / Report / Control; Mfa / Identity / Okta
+axiomlabs.dev,1,0,1,2026-04-17 09:45:00+00:00,2026-04-17 09:45:00+00:00,4.2,4.2,0.0,4.2,4.2,Renewal / Pricing / Proposal
+frostbyte,2,0,2,2026-02-19 10:30:00+00:00,2026-04-25 14:45:00+00:00,4.8,3.7,-1.0999999999999996,4.25,3.7,Mfa / Identity / Okta
+pineridge,2,1,1,2026-03-03 15:15:00+00:00,2026-03-04 10:15:00+00:00,4.7,3.9,-0.8000000000000003,4.3,3.9,Certificate / Users / Sync; Renewal / Pricing / Proposal
+keystonehealth,1,0,1,2026-03-09 16:45:00+00:00,2026-03-09 16:45:00+00:00,4.4,4.4,0.0,4.4,4.4,Renewal / Pricing / Proposal
+maplewoodgoods,1,0,1,2026-02-27 14:45:00+00:00,2026-02-27 14:45:00+00:00,4.8,4.8,0.0,4.8,4.8,Evidence / Report / Control

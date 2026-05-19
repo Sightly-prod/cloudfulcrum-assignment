@@ -1,0 +1,89 @@
+{
+  "n_meetings": 100,
+  "call_type_counts": {
+    "external": 43,
+    "internal": 30,
+    "support": 27
+  },
+  "n_clusters": 9,
+  "sentiment_vader_vs_provided_correlation": 0.834,
+  "sentiment_by_call_type": [
+    {
+      "call_type": "external",
+      "n": 43,
+      "avg_provided_score": 3.712,
+      "avg_vader": 0.457,
+      "pct_negative": 0.136,
+      "pct_positive": 0.413
+    },
+    {
+      "call_type": "internal",
+      "n": 30,
+      "avg_provided_score": 3.423,
+      "avg_vader": 0.34,
+      "pct_negative": 0.169,
+      "pct_positive": 0.21
+    },
+    {
+      "call_type": "support",
+      "n": 27,
+      "avg_provided_score": 2.937,
+      "avg_vader": 0.352,
+      "pct_negative": 0.231,
+      "pct_positive": 0.101
+    }
+  ],
+  "top_at_risk_customers": [
+    {
+      "customer": "brightpathcommerce",
+      "tier": "At-risk",
+      "risk_score": 54.4
+    },
+    {
+      "customer": "ridgelinelogistics",
+      "tier": "At-risk",
+      "risk_score": 52.6
+    },
+    {
+      "customer": "northstarpharma",
+      "tier": "At-risk",
+      "risk_score": 51.3
+    },
+    {
+      "customer": "cobaltsoftware",
+      "tier": "At-risk",
+      "risk_score": 46.8
+    },
+    {
+      "customer": "summittrust",
+      "tier": "At-risk",
+      "risk_score": 46.3
+    },
+    {
+      "customer": "novaretail",
+      "tier": "At-risk",
+      "risk_score": 44.2
+    },
+    {
+      "customer": "meridiancapital",
+      "tier": "Watch",
+      "risk_score": 38.4
+    },
+    {
+      "customer": "stratoscloud",
+      "tier": "Watch",
+      "risk_score": 36.2
+    }
+  ],
+  "talk_imbalance_by_type": {
+    "external": 0.568,
+    "internal": 1.0,
+    "support": 0.583
+  },
+  "spotlight_customers": [
+    "brightpathcommerce",
+    "ridgelinelogistics",
+    "northstarpharma",
+    "pineridge"
+  ]
+}
